@@ -70,4 +70,7 @@ public class BaseActivity extends Activity {
         intent.putExtra(name, value);
         startActivity(intent);
     }
+
+
+
 }
